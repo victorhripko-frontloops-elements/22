@@ -59,8 +59,6 @@ import './style.scss';
 
     currentPosX = nextX;
     currentPosY = nextY;
-
-    // window.requestAnimationFrame(moveDot);
   };
 
 
