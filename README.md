@@ -1,21 +1,3 @@
-# Template for FrontLoops [Elements] challenge
+# Dot container
 
-Install all dependencies
-```bash
-npm i
-```
-
-For start watching all files use:
-```bash
-npm run start
-```
-
-then open in browser
-```bash
-http://localhost:1234/
-```
-
-For build all files use:
-```bash
-npm run build
-```
+Build a card with a red dot inside that can be moved by keyboard arrows and can't cross the card borders
